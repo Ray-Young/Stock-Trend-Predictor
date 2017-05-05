@@ -1,0 +1,1 @@
+The submission includes a report, experiment result(hadoop log and time series matching result), code and data set. A README for code deployment is included in code folder. 
